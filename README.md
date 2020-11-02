@@ -1,6 +1,6 @@
 ## jkj
 
-![adedaniel's github stats](https://github-readme-stats.vercel.app/api?username=adedaniel&count_private=true&show_icons=true&icon_color=f1f1f1&title_color=61dafb&bg_color=10161b&text_color=61dafb)
+![adedaniel's github stats](https://github-readme-stats.vercel.app/api?username=adedaniel&count_private=true&show_icons=true&icon_color=f1f1f1&title_color=61dafb&bg_color=10161b&text_color=61dafb&custom_title=My%20Github%20Stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adedaniel)](https://github.com/anuraghazra/github-readme-stats)
 
