@@ -1,4 +1,4 @@
-![adedaniel's intro gif](https://res.cloudinary.com/adedaniel/image/upload/q_39/v1604325754/portfolio%20cdn/ezgif.com-crop_ymi2jl.gif)
+![adedaniel's intro gif](https://user-images.githubusercontent.com/44926128/127720389-5ffef7f9-3c80-4f89-b413-c6ddd83c624f.gif)
 
 # 👋 Hey! I'm Daniel...
 
@@ -28,8 +28,7 @@ export default function Daniel() {
 ```
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russelldias98&" alt="russelldias98" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adedaniel&" alt="adedaniel" /></p>
 
 <br/>
 
