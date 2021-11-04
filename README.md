@@ -5,7 +5,7 @@
 [![Twitter: ijebu_developer](https://img.shields.io/twitter/follow/ijebu_developer?style=social)](https://twitter.com/ijebu_developer)
 [![Linkedin: adedaniel](https://img.shields.io/badge/-adedaniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-adetola-700baa199/)](https://www.linkedin.com/in/daniel-adetola-700baa199/)
 [![GitHub adedaniel](https://img.shields.io/github/followers/adedaniel?label=follow&style=social)](https://github.com/adedaniel)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://adedaniel.netlify.app)](https://adedaniel.netlify.app)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://adedaniel.com)](https://adedaniel.com)
 [![Gmail Badge](https://img.shields.io/badge/-mail@adetoladaniel693@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adetoladaniel693@gmail.com)](mailto:adetoladaniel693@gmail.com)
 
 ```javascript
