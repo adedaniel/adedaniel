@@ -20,7 +20,7 @@ export default function Daniel() {
       active="Looking for a remote job"
       pronouns={"He" || "Him"}
       devHobbies={["Music", "Football", "Coding"]}
-      askDevAbout={["React", "Design", "Basemailer", "Telecommunications"]}
+      askDevAbout={["React", "Design", "CSS", "Telecommunications"]}
       presentDevActivity="Using state and props to change the world🔥"
     />
   );
