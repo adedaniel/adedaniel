@@ -1,6 +1,6 @@
 ![adedaniel's intro gif](https://user-images.githubusercontent.com/44926128/127720389-5ffef7f9-3c80-4f89-b413-c6ddd83c624f.gif)
 
-# 👋 Hey! I'm Daniel...
+# 👋 Hi there! I'm Daniel...
 
 [![Twitter: ijebu_developer](https://img.shields.io/twitter/follow/ijebu_developer?style=social)](https://twitter.com/ijebu_developer)
 [![Linkedin: adedaniel](https://img.shields.io/badge/-adedaniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-adetola-700baa199/)](https://www.linkedin.com/in/daniel-adetola-700baa199/)
