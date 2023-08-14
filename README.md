@@ -79,8 +79,6 @@ export default function Daniel() {
 
 <br/>
 
-![adedaniel's github stats](https://github-readme-stats.vercel.app/api?username=adedaniel&count_private=true&show_icons=true&icon_color=f1f1f1&title_color=61dafb&bg_color=10161b&text_color=61dafb&custom_title=My%20Github%20Stats&hide=issues,contribs)
-
 ### 👨‍💻I'm presently searching for a job. [Do reach out](mailto:adetoladaniel693@gmail.com)
 
 <br/>
