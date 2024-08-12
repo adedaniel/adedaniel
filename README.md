@@ -16,7 +16,7 @@ export default function Daniel() {
   return (
     <Developer
       devName="Adetola Daniel"
-      devType="Frontend"
+      devType="Fullstack"
       active="Looking for a remote job"
       pronouns={"He" || "Him"}
       devHobbies={["Music", "Football", "Coding"]}
